@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React, Typescript for frontend and Node.js with Express for backend
 - 💞️ I’m looking to collaborate on any future projects!
 - 📫 How to reach me:
-- 📞 phone: +48 503 022 954
-- 📧 e-mail: bartoszmrosek@gmail.com
+- 📞 Phone: +48 503 022 954
+- 📧 E-mail: bartoszmrosek@gmail.com
 - 💬 Leave some message!
 
 <!---
