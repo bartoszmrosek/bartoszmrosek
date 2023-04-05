@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @bartoszmrosek
+
+### To get to know me better visit https://bartoszmrosek.me/
+
 - 👀 I'm interested in React.Js with Typescript
 - 🌱 I’m currently learning React, Typescript for frontend and Node.js with Express for backend
 - 💞️ I’m looking to collaborate on any future projects!
