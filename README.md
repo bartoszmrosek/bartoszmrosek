@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi, I`m Bartosz Mrosek
 </h1>
@@ -6,7 +7,7 @@
 </h3>
 
 <p>
-  To get to know me better take a look at my **[webpage](https://bartoszmrosek.me/)**
+  To get to know me better take a look at my <a href="https://bartoszmrosek.me/" target="_blank">webpage</a>
 <p>
 
 - Currently enrolling in Computer Science studies at Politechnika Śląska 👨‍🎓
