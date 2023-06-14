@@ -17,6 +17,6 @@
   Get in touch with me here:
 </h2>
 <p>
-  <a href="https://www.linkedin.com/in/bartosz-mrosek-b4577522b/" rel="noreferrer" target="_blank"><img align="center" alt="https://www.linkedin.com/in/bartosz-mrosek-b4577522b/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" /></a>
+  <a href="https://www.linkedin.com/in/bartosz-mrosek-b4577522b/" rel="noreferrer" target="_blank"><img align="center" alt="https://www.linkedin.com/in/bartosz-mrosek-b4577522b/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" /></a>&nbsp;&nbsp;
   <a href="mailto:bartoszmrosek@gmail.com" rel="noreferrer" target="_blank"><img alt="bartoszmrosek@gmail.com" align="center" width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" /></a>
 </p>
