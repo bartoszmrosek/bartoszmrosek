@@ -78,4 +78,7 @@
 <h3>
   Some <del>useless</del> good looking statistics
 </h3>
-[Bartosz` Github stats](https://deploy-fork-github-readme-stats.vercel.app/api?username=bartoszmrosek)
+<p>
+  <img align="center" src="https://deploy-fork-github-readme-stats.vercel.app/api?username=bartoszmrosek&show_icons=true&theme=vision-friendly-dark" alt="Bartosz`s Github statistics" />
+  <img align="center" src="https://deploy-fork-github-readme-stats.vercel.app/api/top-langs?username=bartoszmrosek&layout=compact&theme=vision-friendly-dark" alt="Bartosz`s most used programming languages" />
+</p>
