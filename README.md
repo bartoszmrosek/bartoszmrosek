@@ -75,3 +75,7 @@
     <img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma logo" width="40" height="40" />
   </a>
 </p>
+<h3>
+  Some <del>useless</del> good looking statistics
+</h3>
+[Bartosz` Github stats](https://deploy-fork-github-readme-stats.vercel.app/api?username=bartoszmrosek)
