@@ -42,4 +42,19 @@
   <a href="https://nodejs.org/" rel="noreferrer" target="_blank">
     <img src="https://bartoszmrosek.me/_astro/NodeJsLogo.5db29b13.svg" alt="NodeJs logo" width="40" height="40" />
   </a>
+  <a href="https://react.dev/" rel="noreferrer" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React logo" width="40" height="40" />
+  </a>
+  <a href="https://redux.js.org/" rel="noreferrer" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo" width="40" height="40" />
+  </a>
+  <a href="https://jestjs.io/" rel="noreferrer" target="_blank">
+    <img src="https://bartoszmrosek.me/_astro/JestLogo.b064d72f.png" alt="Jest logo" width="40" height="40" />
+  </a>
+  <a href="https://eslint.org/" rel="noreferrer" target="_blank">
+    <img src="https://bartoszmrosek.me/_astro/ESLintLogo.b04dac2f.png" alt="Eslint logo" width="40" height="40" />
+  </a>
+  <a href="https://socket.io/" rel="noreferrer" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/600px-Socket-io.svg.png?20200308235956" alt="Socket-io logo" width="40" height="40" />
+  </a>
 </p>
