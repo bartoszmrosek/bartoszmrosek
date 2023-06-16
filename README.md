@@ -57,4 +57,21 @@
   <a href="https://socket.io/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/600px-Socket-io.svg.png?20200308235956" alt="Socket-io logo" width="40" height="40" />
   </a>
+  <a href="https://typeorm.io/" rel="noreferrer" target="_blank">
+    <img src="https://bartoszmrosek.me/_astro/TypeORMLogo.2634121a.svg" alt="TypeOrm logo" width="40" height="40" />
+  </a>
+</p>
+<h2>
+  Currently learning:
+</h2>
+<p>
+  <a href="https://angular.io/" rel="noreferrer" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular logo" width="40" height="40" />
+  </a>
+  <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png?20221211225055" alt="NestJs logo" width="40" height="40" />
+  </a>
+  <a href="https://www.prisma.io/" rel="noreferrer" target="_blank">
+    <img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma logo" width="40" height="40" />
+  </a>
 </p>
