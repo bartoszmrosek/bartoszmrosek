@@ -24,7 +24,7 @@
     <img alt="bartoszmrosek@gmail.com" align="center" width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" />    </a>
 </p>
 <h2>
-  Commercial experience in:
+  Commercial experience:
 </h2>
 <p>
    <a href="https://angular.io/" rel="noreferrer" target="_blank">
@@ -53,7 +53,7 @@
   </a>
 </p>
 <h2>
-  Tools I am confident in:
+  Knowledge of:
 </h2>
 <p>
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
@@ -70,7 +70,7 @@
   </a>
 </p>
 <h2>
-  Currently learning:
+   Learning:
 </h2>
 <p>
   <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
