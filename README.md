@@ -30,11 +30,17 @@
    <a href="https://angular.io/" rel="noreferrer" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular logo" width="40" height="40" />
   </a>
+  <a href="https://ngrx.io/" rel="noreferrer" target="_blank">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gso8frM8--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5016/e0539a31-5715-46f2-b054-79fd23457161.png" alt="NgRx logo" width="40" height="40" />
+  </a>
   <a href="https://www.w3.org/html/logo/" rel="noreferrer" target="_blank">
     <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="40" height="40" alt="HTML5 shield badge">
   </a>
   <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" alt="CSS3 shield badge" />
+  </a>
+    <a href="https://sass-lang.com/" rel="noreferrer" target="_blank">
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-reversed.png" width="40" height="40" alt="SCSS logo" />
   </a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="Javascript logo" />
@@ -50,6 +56,9 @@
   </a>
   <a href="https://eslint.org/" rel="noreferrer" target="_blank">
     <img src="https://bartoszmrosek.me/_astro/ESLintLogo.b04dac2f.png" alt="Eslint logo" width="40" height="40" />
+  </a>
+  <a href="https://www.cypress.io/" rel="noreferrer" target="_blank">
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Cypress logo" width="40" height="40" />
   </a>
 </p>
 <h2>
